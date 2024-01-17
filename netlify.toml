@@ -1,4 +1,0 @@
-
-[build]
-  command = "npm run build"  # Adjust this based on your build script
-  publish = "frontend/dist"  # Adjust this based on your frontend build output directory
